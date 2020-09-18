@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="M:WindowsApplication1.RuleProcessor.ProcessRule(System.String)">
+	<summary>
+ This function will process the rule based on the rule code
+ </summary>
+	<param name="completeRule"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.RuleProcessor.GenerateResult(System.Int32,System.Int32,System.Int32)">
+	<summary>
+ This function generates result using operand and operator codes
+ </summary>
+	<param name="value1"></param>
+	<param name="value2"></param>
+	<param name="operandCode"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.RuleProcessor.NumericOperatorValue(System.String)">
+	<summary>
+ This fn replaces the string values with equivalent numeric codes
+ </summary>
+	<param name="operatorCode"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.RuleProcessor.IsBaseDataType(System.Type)">
+	<summary>
+ Determines whether [is base data type] [the specified data type].
+ </summary>
+	<param name="dataType">Type of the data.</param>
+	<returns><c>true</c> if [is base data type] [the specified data type]; otherwise, <c>false</c>.</returns>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.RuleProcessor.IsCollectionType(System.Type)">
+	<summary>
+ Determines whether [is collection type] [the specified data type].
+ </summary>
+	<param name="dataType">Type of the data.</param>
+	<returns><c>true</c> if [is collection type] [the specified data type]; otherwise, <c>false</c>.</returns>
+	<remarks></remarks>
+</member><member name="M:WindowsApplication1.RuleProcessor.Compare(System.Object,System.Object,System.Type)">
+	<summary>
+ Compares the specified first data.
+ </summary>
+	<param name="firstData">The first data.</param>
+	<param name="secondData">The second data.</param>
+	<param name="objType">Type of the obj.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

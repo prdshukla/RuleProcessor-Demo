@@ -1,0 +1,12 @@
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ADValidation.resources
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.RuleProcessor.resources
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\1 OfficeWork\Dev Bench\2012\RuleProcessor\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
